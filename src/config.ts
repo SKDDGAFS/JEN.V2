@@ -1,4 +1,4 @@
-export const sceneConfig = {
+ export const sceneConfig = {
   password: 'miamor',
   greeting: 'HOLA AMOR! =)',
   continueText: 'Continue →',
@@ -62,7 +62,8 @@ export const sceneConfig = {
   musicContinueText: 'Continue to music',
   closingContinueText: 'Close the chapter',
   closingTitle: 'GOOSBYEEE',
-  closingText: 'JENNY I MISS YOU SOOO MUCH. ITS RN 6:56pm im coding this through my phone bc my laptops died. Jenny i dindt do it on purpose to let y on delivered, but y hurt me when u say i am cheeting. I LIKE YOU SO MUCH ❤️',
+  closingText: 'JENNY I MISS YOU SOOO MUCH. ITS RN 6:56pm im coding this through my phone bc my laptops died. Jenny i dindt do it on purpose to let y on delivered, but y hurt me when u say i am cheeting. 
+  I hope this shows you how much I LIKE YOU & WANT YOU ❤️',
   closingResetText: 'Restart',
   artworks: [
     {
