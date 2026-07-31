@@ -3,7 +3,7 @@
   greeting: 'HOLA AMOR! =)',
   continueText: 'Continue →',
   hint: 'A secret begins with a soft little word.',
-  title: 'Esto para ti cariño',
+  title: 'HEYY JENNY YES U DESERVE ME 😺',
   initials: 'J & Y',
   asciiArt: `
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣶⣶⣤⡀⢀⣤⣶⡿⠿⠿⣷⣄⠀⠀⠀⠀⠀⠀⠀
